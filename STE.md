@@ -19,13 +19,13 @@ As a technical writer, you have to work with Subject Matter Experts. They are th
 
 :blue_book: Tips:
 ## Talk to your SME. 
-Try to build a personal relationship with your SME. First, they should know you as a person. Then, it is easier to work together.
+Try to build a personal relationship with your SME. First, they should know you as a person. That way, it is easier to work together.
 ## Offer to do something for them. 
-Help your SME with a work issue. Everyone likes helpful people. Bring cake to work or buy your SME lunch. 
+Help your SME with a work issue. Everyone likes helpful people. Bring cake to work or buy your SME lunch. This can build a stronger relationship. 
 ## Prepare for the meeting
-When you meet your SME, learn everything that you can about your technical issues. Prepare specific questions to ask your SME. 
+When you meet your SME, learn everything about the problematic issues. Prepare specific questions to ask your SME. 
 ## Be empathetic.
-Be calm if your SME does not respond quickly. Send a reminder e-mail.
+Be calm if your SME does not respond quickly. Send them a reminder e-mail.
 ## Value your own time and work.
 Set ground rules. Respectfully inform the SME about your deadlines and work hours.
 
