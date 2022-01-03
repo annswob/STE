@@ -1,6 +1,4 @@
 
-===============
-
 <!-- Here comes the TOC -->
 Table of content
 
