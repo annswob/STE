@@ -4,16 +4,16 @@ Sample document
 <!-- Here comes the TOC -->
 Table of content
 
-- [Sample document](#sample-document)
-- [Header of chapter](#header-of-chapter)
-- [Header of another chapter](#header-of-another-chapter)
-  - [Chapter](#chapter)
-  - [Another chapter](#another-chapter)
-    - [Lower level chapter](#lower-level-chapter)
-- [One more header of chapter](#one-more-header-of-chapter)
-- [New header](#new-header)
-  - [Sub-header](#sub-header)
-  - [Second sub-header](#second-sub-header)
+1. [Sample document](#sample-document)
+2. [Header of chapter](#header-of-chapter)
+3. [Header of another chapter](#header-of-another-chapter)
+   1. [Chapter](#chapter)
+   2. [Another chapter](#another-chapter)
+      1. [Lower level chapter](#lower-level-chapter)
+4. [One more header of chapter](#one-more-header-of-chapter)
+5. [New header](#new-header)
+   1. [Sub-header](#sub-header)
+   2. [Second sub-header](#second-sub-header)
 
 <!-- Chapters with headers -->
 # Header of chapter
