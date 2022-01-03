@@ -15,13 +15,13 @@ Table of content
 
 # How to Handle a Difficult SME
 
-As a technical writer, you have to work with Subject Matter Experts. They are the specialists of your product, process or technology. They are often very busy. What can you do to convince them to help you?
+As a technical writer, you have to work with Subject Matter Experts. They are the specialists of your product, process or technology. They are often very busy. How can you convince them to help you?
 
 :blue_book: Tips:
 ## Talk to your SME. 
 Try to build a personal relationship with your SME. First, they should know you as a person. That way, it is easier to work together.
 ## Offer to do something for them. 
-Help your SME with a work issue. Everyone likes helpful people. Bring cake to work or buy your SME lunch. This can build a stronger relationship. 
+Help your SME with a work issue. Everyone likes helpful people. Bring cake to work or buy your SME lunch. This can help to build a stronger relationship. 
 ## Prepare for the meeting
 When you meet your SME, learn everything about the problematic issues. Prepare specific questions to ask your SME. 
 ## Be empathetic.
