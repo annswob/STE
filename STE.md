@@ -15,6 +15,7 @@ Table of content
 
 As a technical writer, you work with Subject Matter Experts (SMEs). They are the specialists of your product, process or technology. They are often very busy. How can you convince them to help you?
 
+
 Tips:
 ## Talk to your SME. 
 Try to build a personal relationship with your SME. First, they must know you as a person. That way, it is easier to work together.
